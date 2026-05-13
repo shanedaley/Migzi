@@ -1,5 +1,5 @@
 # Migzi.ai — WebGPU‑Powered 3D Document Platform
-https://github.com/shanedaley/Migzi/blob/main/Screenshot%202026-05-14%20at%2009.39.47.png
+(https://raw.githubusercontent.com/shanedaley/Migzi/refs/heads/main/Screenshot%202026-05-14%20at%2009.39.47.png)
 
 
 Migzi.ai is a next‑generation browser‑based 3D platform that allows users to import **PDFs and PowerPoints** into immersive environments.  
