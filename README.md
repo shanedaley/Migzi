@@ -1,4 +1,7 @@
 # Migzi.ai — WebGPU‑Powered 3D Document Platform
+## 🖼 Project Screenshot
+![Migzi.ai Screenshot](https://raw.githubusercontent.com/shanedaley/Migzi/refs/heads/main/Screenshot%202026-05-14%20at%2009.39.47.png)
+
 (https://raw.githubusercontent.com/shanedaley/Migzi/refs/heads/main/Screenshot%202026-05-14%20at%2009.39.47.png)
 
 
