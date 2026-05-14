@@ -3,7 +3,7 @@
 > ⚠️ **Migzi.ai requires a browser with WebGPU support enabled.**  
 > For the best experience, use the latest version of **Chrome**, **Edge**, or another Chromium-based browser with WebGPU support.
 
-<a href="https://migzi.ai" target="_blank">
+<a href="https://migzi.ai" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/shanedaley/Migzi/refs/heads/main/Screenshot%202026-05-14%20at%2009.39.47.png" alt="Migzi.ai Screenshot" />
 </a>
 
